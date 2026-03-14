@@ -1,6 +1,6 @@
 Vee Distribution License (VDL)
 
-Copyright (c) 2026 Vee
+Copyright (c) 2026 The Software Authors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,8 +22,7 @@ furnished to do so, subject to the following conditions:
    notice, patent grant, and these terms with any derivative work.
 
 4. Attribution: Any use of the Software, including modifications, forks, or
-   redistribution of parts or whole, must give credit to the original author
-   Vee, including a link to the original source if possible.
+   redistribution of parts or whole, must give credit to the original author(s), including a link to the original source if possible.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
 INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
