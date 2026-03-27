@@ -1,3 +1,3 @@
 # Vee-Distribution-License-VDL-
 
-VDL is not a offical SPDIX
+The "VDL" is not a offical SPDEX identifier, its purly cosmetical.
